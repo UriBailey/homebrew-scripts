@@ -2,7 +2,7 @@ class UriBuild < Formula
   desc "PR rebuild monitor that comments #rebuild when Falcon CI requests it"
   homepage "https://github.com/"
 
-  url "file:///Users/uriba/scripts/uri-build.sh"
+  url "https://github.com/UriBailey/scripts/blob/main/uri-build.sh"
   version "0.1.0"
   sha256 :no_check
 
