@@ -4,7 +4,7 @@ class UriBuild < Formula
 
   url "https://github.com/UriBailey/scripts/blob/main/uri-build.sh"
   version "0.1.0"
-  sha256 :no_check
+  sha256 "e7adeb5a6a78495394807ff216aa9a32a7d2a5a8efea292e37b32c2fd09538a9"
 
   depends_on "gh"
 
