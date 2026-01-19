@@ -4,8 +4,8 @@ class UriBuild < Formula
 
   # Use the raw file URL; the GitHub `/blob/` URL serves HTML.
   url "https://raw.githubusercontent.com/UriBailey/scripts/main/uri-build.sh"
-  version "0.1.0"
-  sha256 "e7adeb5a6a78495394807ff216aa9a32a7d2a5a8efea292e37b32c2fd09538a9"
+  version "0.1.1"
+  sha256 "61eed2af542f99eca5898ad911db58f6b99ff2db6cafcb7f737f7df67a6c4bbc"
 
   depends_on "gh"
 
